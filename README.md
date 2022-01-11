@@ -81,3 +81,20 @@ $("p").hide() - hides all elements.
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
   
+  <br>
+  <br>
+  
+># E. What are Events?
+
+
+
+       All the different visitors' actions that a web page can respond to are called events.
+       An event represents the precise moment when something happens.
+      
+       Examples:
+
+       moving a mouse over an element
+       selecting a radio button
+       clicking on an element
+
+  
