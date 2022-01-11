@@ -74,7 +74,6 @@ $("p").hide() - hides all elements.
 <li>Class selector $(".class")</li>
 <li>Element selector $("p")</li>
 <li>Id selector $("#id")</li>
-<li>Element selector $("p")</li>
 <li>Attribute selector $("input[type="text"]")</li>
 
   Example:
