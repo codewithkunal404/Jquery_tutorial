@@ -75,7 +75,7 @@ $("p").hide() - hides all elements.
 <li>Element selector $("p")</li>
 <li>Id selector $("#id")</li>
 <li>Attribute selector $("input[type="text"]")</li>
-
+<br>
   Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
@@ -123,7 +123,7 @@ $("p").hide() - hides all elements.
 <li>keydown()</li>
 <li>keypress()</li>
 <li>select()</li>
-
+<br>
  Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
