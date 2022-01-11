@@ -167,7 +167,7 @@ $("p").hide() - hides all elements.
 
 ### Chaining
 <li> .css().slideup().slidedown().........</li>
-
+<br>
 
 Example:
   
