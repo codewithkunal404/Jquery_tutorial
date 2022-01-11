@@ -97,4 +97,4 @@ $("p").hide() - hides all elements.
        selecting a radio button
        clicking on an element
 
-  
+#### Here are Various Types?
