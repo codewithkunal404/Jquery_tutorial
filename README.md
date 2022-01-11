@@ -36,6 +36,27 @@ Basic syntax is: $(selector).action()
  <li> A (selector) to "query (or find)" HTML elements</li>
   <li> A jQuery action() to be performed on the element(s)</li>
 
+## The Document Ready Event:::
+
+
+You might have noticed that all jQuery methods in our examples, are inside a document ready event:
+
+#### type1:
+
+      $(document).ready(function(){
+
+       // jQuery methods go here...
+
+       });
+       
+
+#### type2:
+
+      $(function(){
+
+       // jQuery methods go here...
+
+       });
 
 ### Examples:
 
@@ -48,7 +69,13 @@ $("p").hide() - hides all elements.
 
 
 ># D. Selectors
-<li>ALL selector(*)<//li>
+<li>ALL selector $(*)</li>
+<li>Current selector $(this)</li>
+<li>Class selector $(".class")</li>
+<li>Element selector $("p")</li>
+<li>Id selector $("#id")</li>
+<li>Element selector $("p")</li>
+<li>Attribute selector $("input[type="text"]")</li>
 
   Example:
   
