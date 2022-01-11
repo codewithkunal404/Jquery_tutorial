@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All selectors</title>
+</head>
+<body>
+
+    <!-- <li>ALL selector $(*)</li>
+<li>Current selector $(this)</li>
+<li>Class selector $(".class")</li>
+<li>Element selector $("p")</li>
+<li>Id selector $("#id")</li>
+<li>Element selector $("p")</li>
+<li>Attribute selector $("input[type="text"]")</li> -->
+
+
+<!-- ALL(*) selector -->
+
+    <h1>Lorem ipsum dolor sit amet.</h1>  
+    <h2>Lorem ipsum dolor sit amet consectetur.</h2>
+    <p class="para1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium quia odit iste hic voluptates dolorum distinctio doloremque provident, molestias fugiat sit dolores eos ipsam et ipsa vero nemo incidunt est.</p>
+    <span id="span1">This is id selector</span>
+    <input type="text" name="fname" placeholder="Attribute selector">
+    <input type="password" name="fname" placeholder="Attribute selector">
+    <br>
+    <br>
+<button class="btn1">ALL selector</button>
+<button class="btn2">Current selector</button>
+<button class="btn3">class selector</button>
+<button class="btn4">Element selector</button>
+<button class="btn5">Id selector</button>
+<button class="btn6">Attribute selector</button>
+
+
+</body>
+
+<script src="jquery-3.6.0.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+
+ $("button").click(function(){
+
+// selector all
+      $("*").css({
+          "color":"blue"
+      }); 
+    })
+
+    
+    $(".btn2").click(function(){
+
+// current selector
+        $(this).css({
+
+            "width":"20%"
+        }); 
+
+    })
+
+    $(".btn3").click(function(){
+
+// class selector
+        $(".para1").css({
+
+            "color":"red"
+        }); 
+
+    })
+
+
+
+    $(".btn4").click(function(){
+
+// Element selector
+        $("h1").css({
+
+            "font-size":"3em"
+        }); 
+
+    })
+
+    $(".btn5").click(function(){
+
+// Element selector
+        $("#span1").css({
+
+            "font-size":"3em"
+        }); 
+
+    })
+
+
+
+    $(".btn6").click(function(){
+
+// Attribute selector
+        $("input[type='text']").css({
+
+            "width":"40%",
+            "height":"50px"
+        });
+        
+        $("input[type='password']").css({
+
+          "background":"lightblue"
+}); 
+
+
+    })
+
+
+
+
+})
+</script>
+</html>
