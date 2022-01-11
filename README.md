@@ -98,3 +98,78 @@ $("p").hide() - hides all elements.
        clicking on an element
 
 #### Here are Various Types?
+
+<li>bind()</li>
+<li>blur()</li>
+<li>change()</li>
+<li>click()</li>
+<li>dbclick()</li>
+<li>focus()</li>
+<li>focusin()</li>
+<li>focusout()</li>
+<li>hover()</li>
+<li>load()</li>
+<li>mousedown()</li>
+<li>mouseleave()</li>
+<li>mousemove()</li>	
+<li>mouseout()</li>
+<li>mouseover()</li>
+<li>mouseup()</li>
+<li>toggle()</li>
+<li>submit()</li>
+<li>scroll()</li>
+<li>key()</li>
+<li>keyup()</li>
+<li>keydown()</li>
+<li>keypress()</li>
+<li>select()</li>
+
+ Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
+  
+  <br>
+  <br>
+  
+># Jquery Effects?
+
+### Show/Hide
+
+<li>Show()</li>
+<li>Hide()</li>
+<li>Toggle()</li>
+
+### Fade
+<li>fadeIn()</li>
+<li>fadeOut()</li>
+<li>fadeToggle()</li>
+<li>fadeTo()</li>
+ 
+### Slide
+<li>slideDown()</li>
+<li>slideUp()</li>
+<li>slideToggle()</li>
+
+### animate
+<li>jQuery animate() - Manipulate Multiple Properties</li>
+<li>jQuery animate() - Using Relative Values</li>
+<li>jQuery animate() - Using Pre-defined Values</li>
+<li>jQuery animate() - Uses Queue Functionality</li>
+
+### stop
+<li>stop() sliding</li>
+<li>stop() animation</li>
+
+### callback
+<li>with callback</li>
+<li>without callback</li>
+
+### Chaining
+<li> .css().slideup().slidedown().........</li>
+
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
