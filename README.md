@@ -78,5 +78,5 @@ $("p").hide() - hides all elements.
 
   Example:
   
-  <a href="">RunCode</a>///////////<a href="">SourceCode</a>
+  <a href="">RunCode</a>///////////<a href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
   
