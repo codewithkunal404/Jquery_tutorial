@@ -99,7 +99,6 @@ $("p").hide() - hides all elements.
 
 #### Here are Various Types?
 
-<li>bind()</li>
 <li>blur()</li>
 <li>change()</li>
 <li>click()</li>
