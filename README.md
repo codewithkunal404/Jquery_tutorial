@@ -136,16 +136,31 @@ $("p").hide() - hides all elements.
 <li>Hide()</li>
 <li>Toggle()</li>
 
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
+
 ### Fade
 <li>fadeIn()</li>
 <li>fadeOut()</li>
 <li>fadeToggle()</li>
 <li>fadeTo()</li>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
  
 ### Slide
 <li>slideDown()</li>
 <li>slideUp()</li>
 <li>slideToggle()</li>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
 
 ### animate
 <li>jQuery animate() - Manipulate Multiple Properties</li>
@@ -153,13 +168,29 @@ $("p").hide() - hides all elements.
 <li>jQuery animate() - Using Pre-defined Values</li>
 <li>jQuery animate() - Uses Queue Functionality</li>
 
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
+
 ### stop
 <li>stop() sliding</li>
 <li>stop() animation</li>
 
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
+
 ### callback
 <li>with callback</li>
 <li>without callback</li>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
 
 ### Chaining
 <li> .css().slideup().slidedown().........</li>
