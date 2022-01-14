@@ -100,14 +100,12 @@ $("p").hide() - hides all elements.
 #### Here are Various Types?
 
 <li>blur()</li>
-<li>change()</li>
 <li>click()</li>
 <li>dbclick()</li>
 <li>focus()</li>
 <li>focusin()</li>
 <li>focusout()</li>
 <li>hover()</li>
-<li>load()</li>
 <li>mousedown()</li>
 <li>mouseleave()</li>
 <li>mousemove()</li>	
@@ -117,7 +115,6 @@ $("p").hide() - hides all elements.
 <li>toggle()</li>
 <li>submit()</li>
 <li>scroll()</li>
-<li>key()</li>
 <li>keyup()</li>
 <li>keydown()</li>
 <li>keypress()</li>
@@ -125,8 +122,8 @@ $("p").hide() - hides all elements.
 <br>
  Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allevents.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allevents.html">SourceCode</a>
   
   <br>
   <br>
