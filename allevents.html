@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Events</title>
+
+</head>
+
+
+
+<!-- 
+    
+
+
+
+click()
+dblclick()
+focus()
+blur()
+focusin()
+focusout()
+hover()
+
+mousedown()
+mouseleave()
+mousemove()
+mouseout()
+mouseover()
+mouseup()
+toggle()
+submit()
+scroll()
+keyup()
+keydown()
+keypress()
+select() 
+
+
+-->
+
+<body>
+
+
+
+
+<!-- click event -->
+<h1>this is click me</h1>
+
+
+
+
+<!-- click event -->
+<h2>this is Double click</h2>
+
+
+
+
+
+
+<!-- this is focus and blur -->
+<p>this is blur and focus event</p>
+Enter first name: <input type="text">
+Enter Second name:<input type="text">
+
+    <br>
+
+    <br>
+    <br>
+
+
+
+
+
+
+
+<!-- focus in and focus out -->
+<div class="div1" style="width: 400px;height: 200px; border: 2px solid black;">
+    <p>Focusin and focusout</p>
+    fieldno:--<span class="text"></span> <br>
+<p>here on focuing on input field show result field no and during focus out it will show no field select</p>
+<input class="input1" type="text" >
+<input class="input2" type="text" >
+
+</div>
+
+
+
+
+<!-- hover -->
+<br>
+<br>
+<br>
+
+
+<span class="red" style="padding:2%;background-color:red;">red</span>
+<span  class="green" style="padding:2%;background-color:green;">green</span>
+<span class="yellow" style="padding:2%;background-color:yellow;">yellow</span>
+
+<br>
+<br>
+
+<h1 class="hover1" style="background-color: lightblue;">This is hover color effect</h1>
+
+
+
+
+
+<!-- mouse up and down -->
+<!-- mouse leave and over or out -->
+ <br>
+ <br>
+
+<p class="mud">
+    this is mouseup and down and also mouse leave and over click for text mouseup and down or leave out and over from word 
+</p>
+
+<span class="text2"></span>
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+<!-- mousemove -->
+<h3>this is mouse move event</h3>
+<div class="div3" style="width: 400px;height: 200px; border: 1px solid black;">
+    
+    Co-ordinate are::<span class="span121">
+
+</span>
+
+
+</div>
+
+
+
+
+
+
+<!-- Toggle -->
+
+<br>
+<br>
+<br>
+<br>
+
+
+here click on button and toggle it in result
+<button class="toggle">clickme</button>
+
+<span class="target" style="font-size: 5em;" >this is toggle</span>
+
+
+
+
+
+
+<!-- scroll-->
+
+<p>this is scroll event</p>
+<span>Scrolltimes::</span><span class="scrolltext"></span>
+<div class="scroll" style="overflow-y: scroll; width: 200px;height: 200px;">
+    <p>
+         Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quia suscipit illo. Fugit iusto nobis iure perferendis, animi facilis praesentium eum nihil id quo nemo iste sunt at natus quod, dolorem earum necessitatibus. Nostrum ullam quis iusto culpa, itaque repellat. adipisicing elit. Facere vero enim debitis pariatur dolorem praesentium? Aspernatur earum mollitia laborum reprehenderit! ipsum dolor sit amet consectetur adipisicing elit. Adipisci consectetur quibusdam nobis voluptates eius id quae dolor neque doloremque laboriosam.
+    </p>
+</div>
+
+
+<br>
+<br>
+
+
+
+
+<!-- submit event  -->
+
+<form >
+    <input type="submit" value="submit">
+
+</form>
+
+
+
+
+<!-- key up an down and press -->
+<p>this is keyup and keydown and keypress</p>
+
+firstname: <input type="text" class="input10">
+<span class="times"></span>
+
+
+
+
+
+
+
+<!-- select event  -->
+
+<p>this is select event</p>
+
+<input type="text" class="select">
+
+
+
+
+</body>
+<script src="jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function(){
+
+// click event
+  $("h1").click(function(){
+  $("h1").hide()
+  })
+// dblclick event
+  
+  $("h2").dblclick(function(){
+  $("h2").hide()
+  })
+// focus event
+  
+  $("input").focus(function(){
+  $(this).css({
+      "background":"yellow"
+    })
+
+
+  })
+
+//   blur event
+  $("input").blur(function(){
+    $(this).css({
+        "background":"blue"
+    })
+    
+})
+
+// focusin and focusout
+
+$(".input1").focusin(function(){
+    $(".text").text("field 1")
+
+})
+$(".input2").focusin(function(){
+    $(".text").text("field 2")
+
+})
+
+$(".div1").focusout(function(){
+    $(".text").text("no one is selected")
+
+})
+
+// Hover
+$(".red").hover(function(){
+    $(".hover1").css({
+        "color":"red"
+    })
+
+})
+
+$(".green").hover(function(){
+    $(".hover1").css({
+        "color":"green"
+    })
+
+})
+$(".yellow").hover(function(){
+    $(".hover1").css({
+        "color":"yellow"
+    })
+
+})
+
+
+// mouse up and down
+$(".mud").mouseup(function(){
+
+    $(".text2").text("mouseup")
+})
+ 
+
+$(".mud").mousedown(function(){
+
+$(".text2").text("mousedown")
+})
+  
+  
+
+
+
+
+// mouse leave and over
+
+
+$(".mud").mouseover(function(){
+
+$(".text2").css({
+    
+    "background":"yellow"})
+
+
+$(".text2").text("mouseover")
+
+})
+
+
+// here you can use mouse leave
+$(".mud").mouseout(function(){ 
+
+$(".text2").css({
+
+    "background":"lightblue"
+})
+
+$(".text2").text("mouseleave")
+
+
+})
+
+
+// mousemove
+
+
+  $(".div3").mousemove(function(event){
+    $(".span121").text(event.pageX + ", " + event.pageY); // here we use event XY
+  });
+
+
+
+
+// toggle
+
+
+$(".toggle").click(function(){
+
+$(".target").toggle()
+
+
+  
+  
+})
+
+
+
+// scroll event
+var x=0;
+$(".scroll").scroll(function(){
+
+    $(".scrolltext").text(x++)
+})
+
+
+// submit event
+$("form").submit(function(){
+
+    alert("you use submit event");
+})
+
+
+
+
+// keyup and down
+
+
+$(".input10").keyup(function(){
+    $(this).css({
+
+        "background":"lightblue"
+    })
+})
+
+
+$(".input10").keydown(function(){
+    $(this).css({
+
+        "background":"yellow"
+    })
+})
+
+
+var y=0;
+$(".input10").keydown(function(){
+$(".times").text(y++)
+})
+
+
+
+// select event
+
+
+$(".select").select(function(){
+
+    alert("you use select event");
+})
+
+
+
+
+})
+
+
+</script>
+
+</html>
