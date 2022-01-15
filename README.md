@@ -149,8 +149,8 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/fade.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/fade.html">SourceCode</a>
  
 ### Slide
 <li>slideDown()</li>
