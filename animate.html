@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        div{
+            width: 80px;
+            height: 80px;
+            background-color: slateblue;
+
+            position: absolute;
+            top: 50%;
+            left: 40%;
+     
+
+        }
+    </style>
+</head>
+<body>
+<div></div>
+
+
+
+    
+    <button class="btn1">Animate1</button><!-- animation with multiple properties -->
+    <button class="btn2">Animate2</button><!-- animate with relative values  -->
+    <button class="btn3">Animate3</button><!-- animate with predefined values --show,hide,toggle -->
+    <button class="btn4">Animate4</button><!-- animate with Queues functionality multiple animation with same time-->
+
+    
+    <script src="jquery-3.6.0.min.js"></script>
+    <script>
+
+        $(document).ready(function(){
+
+        $(".btn1").click(function(){
+
+            $("div").animate({
+
+                "left":"50%",
+                "width":"90px",
+                "height":"90px"
+               
+            })
+        })
+            
+         
+            
+
+            $(".btn2").click(function(){
+
+$("div").animate({
+
+    "height":"+=90px",
+    "width":"+=90px"
+   
+})
+
+})
+
+
+
+
+$(".btn3").click(function(){
+
+$("div").animate({
+
+    "height":"toggle"
+   
+})
+
+})
+
+
+
+
+
+
+$(".btn4").click(function(){
+
+    $("div").animate({
+
+"left":"50%",
+"width":"90px",
+"height":"90px"
+
+})
+
+
+
+$("div").animate({
+
+"top":"70%",
+"width":"80px",
+"height":"80px"
+
+
+})
+
+
+$("div").animate({
+
+"left":"40%",
+"width":"90px",
+"height":"90px"
+})
+
+
+$("div").animate({
+
+"top":"50%",
+"width":"80px",
+"height":"80px"
+
+
+
+})
+})
+
+
+        })
+    </script>
+</body>
+</html>
