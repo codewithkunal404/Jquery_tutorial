@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        div{
+            width: 120px;
+            height: 120px;
+            background-color: blue;
+
+        }
+    </style>
+</head>
+<body>
+
+    <!-- show
+         hide
+         Toggle -->
+
+
+      <div></div>  
+      <button class="show">Show</button> 
+      <button class="Hide">Hide</button> 
+      <button class="Toggle">Toggle</button> 
+
+      <script src="jquery-3.6.0.min.js"></script>
+
+      <script>
+
+          $(document).ready(function(){
+
+$(".show").click(function(){
+    $("div").show()
+})
+$(".Hide").click(function(){
+    $("div").hide()
+})
+$(".Toggle").click(function(){
+    $("div").toggle()
+})
+          })
+
+          
+      </script>
+</body>
+</html>
