@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas dicta laboriosam ea vero. Aliquam ratione numquam quaerat dolorem hic deserunt doloremque. Quam, fugiat soluta necessitatibus tempora accusantium cum reprehenderit, illum numquam rem doloribus doloremque corrupti id eveniet ea corporis quod, quibusdam aspernatur ratione. Qui quo voluptatum labore et odio aperiam at, id possimus dicta sunt natus numquam optio perferendis a nam odit itaque. Rem aliquid quibusdam velit laboriosam, error architecto nisi quis dolores laudantium molestias autem magni omnis qui totam fugiat vel mollitia quam ab enim earum beatae recusandae. Sapiente, possimus at. Asperiores laboriosam cupiditate ea minus? Excepturi consequatur officia ullam dignissimos assumenda. Optio fugit exercitationem nemo. Iure dignissimos similique error praesentium debitis, velit perferendis. Illum, qui iste id, ratione at dolorem laboriosam numquam quo fugiat sed provident aut, est iure rem totam excepturi aliquam itaque eos consequuntur. Rerum, delectus. Officiis ab facere earum! Architecto sed dolor ipsam laborum quisquam, similique quidem quis cumque ut sit. Explicabo, ipsa dicta perspiciatis praesentium enim consequuntur dolore sint ad veniam repellat cupiditate asperiores blanditiis quos recusandae laudantium minus odit at earum accusamus sunt adipisci atque! Quidem, inventore nemo! Doloremque, voluptates quasi sapiente quibusdam quam, aliquid quisquam, sit rerum accusantium enim quos ipsum? Ut.</p>
+
+<button  class="btn1"> hide</button>
+<button  class="btn2"> show</button>
+
+
+
+    <script src="jquery-3.6.0.min.js"></script>
+
+    <script>
+
+        $(document).ready(function(){
+// with call back function
+
+            $(".btn1").click(function(){  
+           $("p").hide(1000,function(){
+               alert("now your content is hide");
+           
+        })
+    })
+
+
+
+    $(".btn2").click(function(){  
+           $("p").show(1000,function(){
+               alert("now your content is show");
+           
+        })
+    })
+})
+    </script>
+</body>
+</html>
