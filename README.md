@@ -189,8 +189,8 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/callback.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/callback.html">SourceCode</a>
 
 ### Chaining
 <li> .css().slideup().slidedown().........</li>
