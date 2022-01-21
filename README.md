@@ -128,7 +128,7 @@ $("p").hide() - hides all elements.
   <br>
   <br>
   
-># Jquery Effects?
+># F. Jquery Effects?
 
 ### Show/Hide
 
@@ -200,3 +200,123 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+
+
+
+<br>
+<br>
+
+
+
+># G. Jquery HTML
+
+
+
+### Jquery Get
+<li>html()</li>
+<li>text()</li>
+<li>val()</li>
+<li>attr()</li>
+
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+  
+  
+
+
+
+### Jquery Set
+<li>html()</li>
+<li>text()</li>
+<li>val()</li>
+<li>attr()</li>
+
+
+
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+
+
+
+
+### Jquery Add
+<li>append() </li>
+<li>prepend()</li>
+<li>after() </li>
+<li>before() </li>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+
+
+
+
+
+
+### Jquery Remove
+<li>remove()</li>
+<li>empty()</li>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+
+
+
+
+
+
+### Jquery Css Classes
+<li>addClass()</li>
+<li>removeClass()</li>
+<li>toggleClass()</li>
+<li>css()</li>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+
+
+
+
+### Jquery css()
+<li>Return a CSS Property,Set a CSS Property,Set Multiple CSS Properties
+ 
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a> 
+  
+  
+  
+
+
+### Jquery Dimension 
+  
+<li>width()</li>
+<li>height()</li>
+<li>innerWidth()</li>
+<li>innerHeight()</li>
+<li>outerWidth()</li>
+<li>outerHeight()</li>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a> 
+  
+  
+
+
+
+
