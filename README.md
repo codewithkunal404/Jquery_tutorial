@@ -313,8 +313,8 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/cssclass.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/cssclass.html">SourceCode</a>
 
 
 
@@ -324,8 +324,8 @@ Example:
  
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a> 
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/css.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/css.html">SourceCode</a> 
   
   
   
