@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+
+
+
+
+    
+
+
+        <h1>this is heading1</h1>
+        <p>this is paragraph</p>
+        firstname : <input type="text">
+
+         <a href="https://www.google.co.in/" target="_self">google</a>
+
+
+
+         <button class="btn1">settext()</button>
+         <button class="btn2">sethtml()</button>
+         <button class="btn3">setval()</button>
+         <button class="btn4">setattr()</button>
+    
+    </div>    
+
+    <script src="jquery-3.6.0.min.js"></script>
+
+
+    
+<script>
+
+   $(".btn1").click(function(){
+
+    $("h1").text("hello now your heading is change")
+
+   })
+
+   $(".btn2").click(function(){
+
+$("p").html("<h2>now this is heading2</h2>")
+
+})
+
+$(".btn3").click(function(){
+
+$("input[type='text']").val("kunal")
+
+})
+
+$(".btn4").click(function(){
+
+$("a[target='_self']").attr({"href":"https://www.w3schools.com/jquery/jquery_dom_set.asp"})
+
+})
+
+</script>
+
+
+   
+</body>
+</html>
