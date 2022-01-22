@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+<!-- 
+
+
+The width() :method sets or returns the width of an element (excludes padding, border and margin).
+
+The height(): method sets or returns the height of an element (excludes padding, border and margin).
+
+The innerWidth(): method returns the width of an element (includes padding).
+
+The innerHeight(): method returns the height of an element (includes padding).
+
+The outerWidth() method returns the width of an element (includes padding and border).
+
+The outerHeight() method returns the height of an element (includes padding and border).
+
+
+
+
+
+
+
+-->
+    
+
+<div class="box" style="width: 300px;height: 400px;border: 1px solid black;padding:30px;"></div>
+
+
+<br>
+<br>
+
+<button class="btn1">width()</button>
+<button class="btn2">height()</button>
+<button class="btn3">innerwidth()</button>
+<button class="btn4">innerheight()</button>
+<button class="btn5">outerwidth()</button>
+<button class="btn6">outerheight()</button>
+
+
+<script src="jquery-3.6.0.min.js"></script>
+
+<script>
+    
+
+    $(document).ready(function(){
+
+// width()
+        $(".btn1").click(function(){
+
+
+            alert("width : "+ $(".box").width())
+
+
+        })
+
+// height()
+        $(".btn2").click(function(){
+
+
+alert("height : "+ $(".box").height())
+
+
+})
+
+// innerwidth()
+
+
+
+
+
+$(".btn3").click(function(){
+
+
+alert("innerwidth : "+ $(".box").innerWidth())
+
+
+})
+
+
+// innerheight()
+
+
+$(".btn4").click(function(){
+
+
+alert("innerheight : "+ $(".box").innerHeight())
+
+
+})
+
+
+
+
+// outerwidth()
+
+
+
+$(".btn5").click(function(){
+
+
+alert("outerwidth : "+ $(".box").outerWidth())
+
+
+})
+
+
+
+// outerheight()
+
+$(".btn6").click(function(){
+
+
+alert("outerheight : "+ $(".box").outerHeight())
+
+
+})
+
+
+
+    })
+</script>
+
+
+</body>
+</html>
