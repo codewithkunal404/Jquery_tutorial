@@ -345,8 +345,8 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a> 
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
   
   
 
