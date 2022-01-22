@@ -221,8 +221,8 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/get.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/get.html">SourceCode</a>
   
   
 
@@ -239,8 +239,8 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/set.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/set.html">SourceCode</a>
 
 
 
