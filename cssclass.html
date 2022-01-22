@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <style>
+
+        h1{
+            color: red;
+        }
+        h2{
+            color: blue;
+        }
+
+        .h1{
+
+            font-size: 3em;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+        }
+
+        .h2{
+            
+       
+
+font-size: 3em;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+        }
+
+div{
+
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+        .box{
+
+            width: 100px;
+            height: 100px;
+            background-color: slateblue;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- addClass()
+removeClass()
+toggleClass()
+css() -->
+
+
+
+<h1>this is heading1</h1>
+<h2>this is heading2</h3>
+
+
+    <div></div>
+
+    <br>
+    <br>
+
+
+
+
+<button class="adc">addclass</button>
+<button class="adc2">removeclass</button>
+<button class="adc3">toggleclass</button>
+<button class="adc4">css</button>
+
+
+
+
+
+
+    <script src="jquery-3.6.0.min.js"></script>
+
+    <script>
+
+        $(document).ready(function(){
+
+// addclass()
+            $(".adc").click(function(){
+
+       $("h1").addClass("h1")
+       $("h2").addClass("h2")
+       $("div").addClass("box")
+            })
+
+
+// removeclass()
+            $(".adc2").click(function(){
+
+$("h1").removeClass()
+$("h2").removeClass()
+$(".box").removeClass()
+
+     })
+
+
+
+
+
+// toggleclass
+     $(".adc3").click(function(){
+
+$("h1").toggleClass("h1")
+$("h2").toggleClass("h2")
+$("div").toggleClass("box")
+
+     })
+
+
+
+
+// css
+
+     $(".adc4").click(function(){
+
+$("h1").css({"color":"green"})
+$("h2").css({"color":"red"})
+$("div").css({"border-radius":"50%"})
+
+     })
+
+
+
+
+
+            
+
+})     
+    
+    </script>
+</body>
+</html>
