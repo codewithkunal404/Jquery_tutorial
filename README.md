@@ -320,7 +320,10 @@ Example:
 
 
 ### Jquery css()
-<li>Return a CSS Property,Set a CSS Property,Set Multiple CSS Properties
+<li>Return a CSS Property</li>
+<li>Set a CSS Property</li>
+<li>Set Multiple CSS Properties</li>
+
  
 Example:
   
