@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .box{
+
+            width: 300px;
+            height:250px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    
+<div class="box">
+    
+    <p>this is paragraph</p>
+    <h1>this is heading1</h1>
+    <h2>this is heading2</h2>
+    <h3>this is heading3</h3>
+
+    
+</div>
+<a href="https://www.google.com" class="id">google</a>
+
+
+<input type="text" class="box2">
+
+
+
+<button class="set">html()</button>
+<button class="set2">text()</button>
+<button class="set3">val()</button>
+<button class="set4">attr()</button>
+
+<script src="jquery-3.6.0.min.js"></script>
+
+<script>
+
+
+$(document).ready(function(){
+
+
+$(".set").click(function(){
+
+alert("Text: " + $(".box").html())
+
+})
+
+
+$(".set2").click(function(){
+
+alert("Text: " + $(".box").text())
+
+})
+
+
+$(".set3").click(function(){
+
+alert("Text: " + $(".box2").val())
+
+})
+
+
+$(".set4").click(function(){
+
+alert("website: " + $("a").attr("href"))
+
+})
+
+
+
+})
+</script>
+</body>
+</html>
