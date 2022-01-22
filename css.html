@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <style>
+       
+       .box{
+           width: 300px;
+           height: 300px;
+           border: 1px solid black;
+           background-color: yellow;
+       }
+    </style>
+</head>
+<body>
+
+    <!-- css  return property
+    css property
+    css multiple property
+     -->
+<div class="box">
+
+    
+<h1>this is heading1</h1>
+<h2>this is heading1</h2>
+<h3>this is heading1</h3>
+</div>
+
+
+
+
+<button class="btn1">returncss</button>
+<button class="btn2">applycss</button>
+
+
+
+
+
+     <script src="jquery-3.6.0.min.js"></script>
+
+     <script>
+
+         $(document).ready(function(){
+        // return css property
+            $(".btn1").click(function(){
+     alert("backgroundused:  " + $(".box").css("background-color"))
+
+
+            })
+
+
+            // apply css property single and mutliple properties
+
+            $(".btn2").click(function(){
+    
+                $("h1").css({"background":"red","color":"white"})
+                $("h2").css({"background":"red","color":"white"})
+                $("h3").css({"background":"red","color":"white"})
+
+            })
+
+
+         })
+     </script>
+</body>
+</html>
