@@ -24,6 +24,8 @@
     
     <button class="btn3">prependtext</button>
     <button class="btn4">prependlist</button>
+    <button class="btn5">before</button>
+    <button class="btn6">after</button>
 
 
     <script src="jquery-3.6.0.min.js"></script>
@@ -73,6 +75,28 @@ $("ol").prepend("<li>Aboutus</li>")
 
 
 })
+
+
+
+
+
+$(".btn5").click(function(){
+
+$("h1").before("vicky")
+
+
+
+})
+
+
+$(".btn6").click(function(){
+
+$("h1").after("vicky")
+
+
+
+})
+
 
 
 
