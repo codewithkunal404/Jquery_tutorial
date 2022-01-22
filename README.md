@@ -64,6 +64,9 @@ $(this).hide() - hides the current element.
 
 $("p").hide() - hides all elements.
 
+
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/HE_4DjvvJGs
+
 <br>
 <br>
 
@@ -80,6 +83,9 @@ $("p").hide() - hides all elements.
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/allselector.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allselector.html">SourceCode</a>
+  
+  
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">:::https://youtu.be/Pw9i4H2PsYI
   
   <br>
   <br>
@@ -124,7 +130,16 @@ $("p").hide() - hides all elements.
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/allevents.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/allevents.html">SourceCode</a>
+
+
+
   
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::part-1: https://youtu.be/wV08YuMpzCA
+
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::part-2: https://youtu.be/L0rfjYdvWzg
+
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::part-3:   https://youtu.be/B3q0FPB8R3w
+
   <br>
   <br>
   
@@ -140,6 +155,9 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/showhide.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/showhide.html">SourceCode</a>
+  
+  
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/OoCZBg1HY_M
 
 ### Fade
 <li>fadeIn()</li>
@@ -151,6 +169,10 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/fade.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/fade.html">SourceCode</a>
+  
+  
+  
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/vkPULgC8Ulo 
  
 ### Slide
 <li>slideDown()</li>
@@ -161,6 +183,9 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/slide.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/slide.html">SourceCode</a>
+  
+  
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/RrSgsSqvZVw
 
 ### animate
 <li>jQuery animate() - Manipulate Multiple Properties</li>
@@ -173,6 +198,11 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/animate.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/animate.html">SourceCode</a>
+ 
+
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">:::   https://youtu.be/pgs_boB89Xo
 
 ### stop
 <li>stop() sliding</li>
