@@ -212,6 +212,14 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/stop.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/stop.html">SourceCode</a>
+  
+  
+  
+
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">:::   https://youtu.be/gQbdc_bmA3s
+
+
+
 
 ### callback
 <li>with callback</li>
@@ -222,6 +230,14 @@ Example:
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/callback.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/callback.html">SourceCode</a>
 
+
+
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">:::  https://youtu.be/IJ08Bn0Ca5Y
+
+
+
 ### Chaining
 <li> .css().slideup().slidedown().........</li>
 <br>
@@ -230,6 +246,10 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
+  
+  
+  
+  
 
 
 
@@ -255,6 +275,10 @@ Example:
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/get.html">SourceCode</a>
   
   
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">:::  https://youtu.be/_Svt22ozoYg
+  
+  
+  
 
 
 
@@ -275,6 +299,11 @@ Example:
 
 
 
+  
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">:::  https://youtu.be/YaiEIASC2Uw
+
+
+
 ### Jquery Add
 <li>append() </li>
 <li>prepend()</li>
@@ -285,6 +314,11 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/add.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/add.html">SourceCode</a>
+  
+  
+  
+    
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/PTM-yl4qqfc
 
 
 
