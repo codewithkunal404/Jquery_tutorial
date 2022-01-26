@@ -1,4 +1,6 @@
-# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXWDt5XmFhzjVTL9nNutcGaRFTIHJArLuc-pmCuyYiuxVl7RWW3xasxSiSN8w3iE8nSPE&usqp=CAU" width="100px"> Jquery_tutorial
+># Jquery_tutorial
+
+<img src="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/jquery-3-3-1-cdn.png" width="500px">
 
 
 <br>
