@@ -387,5 +387,12 @@ Example:
   
 
 
+### Jquery noConflict() Method
 
+<li>The noConflict() method releases the hold on the $ shortcut identifier, so that other scripts can use</li>
+
+
+Example:
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/noconflict.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/noconflict.html">SourceCode</a> 
 
