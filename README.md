@@ -408,14 +408,7 @@ Example:
 <li>JQuery Sibling </li>
 <li>Jquery Filtering </li>
 
-<br>
 
-># J. jQuery load() Method
 
-<li>The jQuery load() method is a simple, but powerful AJAX method.</li>
-<li>The load() method loads data from a server and puts the returned data into the selected element.</li>
 
-Syntax:
-
-     $(selector).load(URL,data,callback);
 
