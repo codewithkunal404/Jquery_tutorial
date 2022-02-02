@@ -412,9 +412,9 @@ Example:
      
      👉  The <ul> element is the parent of both <li> elements, and a child of <div>
      
-     👉  The left <li> element is the parent of <span>, child of <ul> and a descendant of <div>
+     👉  The <li> element is the parent of <span>, child of <ul> and a descendant of <div>
      
-     👉 The two left and right <span> element is a child of the left <li> and a descendant of <ul> and <div>
+     👉 The two left and right <span> element is a child of the <li> and a descendant of <ul> and <div>
      
      👉  two <span> are siblings which is same child of its parent <li>
      
