@@ -476,7 +476,7 @@ Example:
   <br>
   
 
-### Jquery Filtering  : in which allow you to select a specific element based on its position in a group of elements.
+## Jquery Filtering  : in which allow you to select a specific element based on its position in a group of elements.
 
 
 
