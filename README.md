@@ -439,7 +439,9 @@ Example:
 
 
 <br>
+
 ## Jquery Traversing:
+
 <li>parent()</li>
 <li>parents()</li>
 <li>parentsUntil()</li>
