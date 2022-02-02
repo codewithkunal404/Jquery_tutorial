@@ -338,6 +338,9 @@ Example:
 
 
 
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/9VXj8yMpkcg
+
+
 
 
 
@@ -353,6 +356,7 @@ Example:
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/cssclass.html">SourceCode</a>
 
 
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/0qwTkW2CzH8
 
 
 ### Jquery css()
@@ -368,7 +372,7 @@ Example:
   
   
   
-
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/Dx3gV9nxt5o
 
 ### Jquery Dimension 
   
@@ -385,6 +389,9 @@ Example:
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
   
   
+  
+  
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/LK2xOgaqPyc
 
 <br>
 
@@ -398,6 +405,7 @@ Example:
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/noconflict.html">SourceCode</a> 
 
 
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/8wStwd56BOA
 <br>
 
 ># I. Jquery Traversing
