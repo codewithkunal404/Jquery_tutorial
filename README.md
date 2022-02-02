@@ -429,6 +429,11 @@ Example:
 <li>parentsUntil()</li>
 
 <br>
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  <br>
 
 ## JQuery Descendants : A descendant is a child, grandchild, great-grandchild, and so on. 
 
@@ -436,6 +441,11 @@ Example:
 <li>find()</li>
 
 <br>
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  <br>
 
 ## JQuery Sibling : Siblings share the same parent. 
 
@@ -449,6 +459,14 @@ Example:
 <li>prevUntil()</li>
 
 <br>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  
+  <br>
+  
 
 ### Jquery Filtering  : in which allow you to select a specific element based on its position in a group of elements.
 
@@ -464,4 +482,6 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  
+  <br>
   
