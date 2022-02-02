@@ -402,7 +402,7 @@ Example:
 
 ># I. Jquery Traversing
 
-<li>jQuery traversing, which means "move through", are used to "find" (or select) HTML elements based on their relation to other elements. Start with one selection and move through that selection until you reach the elements you desire.</li>
+<li>jQuery traversing, means accessing a particular type of  element according to their relation with other elements such as child,parent,grandparent etc.</li>
 <br>
 <img src="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/mom.png" width="300px">
 
@@ -416,7 +416,7 @@ Example:
      
      👉 The two left and right <span> element is a child of the <li> and a descendant of <ul> and <div>
      
-     👉  left and right <span> are siblings childs which is  childs  of its smae parent <li>
+     👉  left and right <span> are siblings childs which is  childs  of its same parent <li>
      
      
 
