@@ -416,7 +416,7 @@ Example:
      
      👉 The two left and right <span> element is a child of the <li> and a descendant of <ul> and <div>
      
-     👉  two <span> are siblings which is same child of its parent <li>
+     👉  left and right <span> are siblings childs which is  childs  of its smae parent <li>
      
      
 
