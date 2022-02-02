@@ -408,6 +408,14 @@ Example:
 
 ### JQuery Traversing 
 
+      The <div> element is the parent of <ul>, and an ancestor of everything inside of it
+      The <ul> element is the parent of both <li> elements, and a child of <div>
+      The left <li> element is the parent of <span>, child of <ul> and a descendant of <div>
+      The <span> element is a child of the left <li> and a descendant of <ul> and <div>
+      The two <li> elements are siblings (they share the same parent)
+      The right <li> element is the parent of <b>, child of <ul> and a descendant of <div>
+      The <b> element is a child of the right <li> and a descendant of <ul> and <div>
+
 <br>
 
 ### JQuery Ancestors : An ancestor is a parent, grandparent, great-grandparent, and so on.
