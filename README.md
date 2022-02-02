@@ -438,5 +438,28 @@ Example:
 
 
 
+<br>
+## Jquery Traversing:
+<li>parent()</li>
+<li>parents()</li>
+<li>parentsUntil()</li>
+<li>children()</li>
+<li>find()</li>
+<li>siblings()</li>
+<li>next()</li>
+<li>nextAll()</li>
+<li>nextUntil()</li>
+<li>prev()</li>
+<li>prevAll()</li>
+<li>prevUntil()</li>
+<li>first()</li>
+<li>last()</li>
+<li>eq()</li>
+<li>filter()</li>
+<li>not()</li>
 
-
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  
