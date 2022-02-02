@@ -422,31 +422,24 @@ Example:
 
 <br>
 
-### JQuery Ancestors : An ancestor is a parent, grandparent, great-grandparent, and so on.
-
-<br>
-
-### JQuery Descendants : A descendant is a child, grandchild, great-grandchild, and so on. 
-
-<br>
-
-### JQuery Sibling : Siblings share the same parent. 
-
-<br>
-
-### Jquery Filtering  : in which allow you to select a specific element based on its position in a group of elements.
-
-
-
-<br>
-
-## Jquery Traversing:
+## JQuery Ancestors : An ancestor is a parent, grandparent, great-grandparent, and so on.
 
 <li>parent()</li>
 <li>parents()</li>
 <li>parentsUntil()</li>
+
+<br>
+
+## JQuery Descendants : A descendant is a child, grandchild, great-grandchild, and so on. 
+
 <li>children()</li>
 <li>find()</li>
+
+<br>
+
+## JQuery Sibling : Siblings share the same parent. 
+
+
 <li>siblings()</li>
 <li>next()</li>
 <li>nextAll()</li>
@@ -454,6 +447,13 @@ Example:
 <li>prev()</li>
 <li>prevAll()</li>
 <li>prevUntil()</li>
+
+<br>
+
+### Jquery Filtering  : in which allow you to select a specific element based on its position in a group of elements.
+
+
+
 <li>first()</li>
 <li>last()</li>
 <li>eq()</li>
