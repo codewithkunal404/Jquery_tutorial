@@ -439,8 +439,8 @@ Example:
 <br>
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/ancestor.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/ancestor.html">SourceCode</a> 
   <br>
 
 ## JQuery Descendants : A descendant is a child, grandchild, great-grandchild, and so on. 
@@ -451,8 +451,8 @@ Example:
 <br>
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/descendant.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/descendant.html">SourceCode</a> 
   <br>
 
 ## JQuery Sibling : Siblings share the same parent. 
@@ -470,8 +470,8 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/sibling.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/sibling.html">SourceCode</a> 
   
   <br>
   
@@ -488,8 +488,8 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Jquery_tutorial/dimension.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/dimension.html">SourceCode</a> 
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/filtering.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/filtering.html">SourceCode</a> 
   
   <br>
   
