@@ -249,8 +249,10 @@ Example:
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/chaining.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/chaining.html">SourceCode</a>
   
+  <br>
   
-  
+
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">:::   https://youtu.be/yxTCE5I_dos
   
 
 
@@ -429,6 +431,10 @@ Example:
      
 
 <br>
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">:::https://youtu.be/b_EVovod_Mk
+
+<br>
+
 
 ## JQuery Ancestors : An ancestor is a parent, grandparent, great-grandparent, and so on.
 
@@ -442,6 +448,10 @@ Example:
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/ancestor.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/ancestor.html">SourceCode</a> 
   <br>
+  
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/4DNmreUSTaU
+
+<br>
 
 ## JQuery Descendants : A descendant is a child, grandchild, great-grandchild, and so on. 
 
@@ -454,7 +464,9 @@ Example:
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/descendant.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/descendant.html">SourceCode</a> 
   <br>
-
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px">::: https://youtu.be/BNVozn6BqWg
+  <br>
+  
 ## JQuery Sibling : Siblings share the same parent. 
 
 
