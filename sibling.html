@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box * { 
+          display: block;
+          border: 2px solid black;
+          color: green;
+          padding: 5px;
+          margin: 15px;
+          width: 60%;
+        }
+        </style>
+</head>
+<body >
+
+    <div class="box">div (parent)
+        <h4>Lorem ipsum dolor sit amet.</h4>
+        <p>Lorem ipsum dolor sit amet.</p>
+      <p>p</p>
+      <span>span</span>
+      <h2>h2</h2>
+      <h3>h3</h3>
+      <p>p</p>
+    </div>
+    
+<!-- 
+siblings()
+next()
+nextAll()
+nextUntil()
+prev()
+prevAll()
+prevUntil() -->
+
+
+
+
+    </body>
+
+<script src="jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function(){
+
+
+
+
+        
+
+
+// $("span").siblings().css({
+
+//     "border":"5px solid blue"
+// })
+
+
+
+
+// $("span").next().css({
+
+// "border":"5px solid blue"
+// })
+
+
+
+
+
+// $("span").nextAll().css({
+
+// "border":"5px solid blue"
+// })
+
+
+
+
+
+// $("span").nextUntil("p").css({
+
+// "border":"5px solid blue"
+// })
+
+
+
+// $("span").prev().css({
+
+// "border":"5px solid blue"
+// })
+
+
+
+
+// $("span").prevAll().css({
+
+// "border":"5px solid blue"
+// })
+
+
+
+$("span").prevUntil("h4").css({
+
+"border":"5px solid blue"
+})
+
+
+
+
+
+
+    })
+</script>
+
+</html>
