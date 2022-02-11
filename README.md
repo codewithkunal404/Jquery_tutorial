@@ -492,11 +492,14 @@ Example:
 
 
 
-<li>first()</li>
-<li>last()</li>
-<li>eq()</li>
-<li>filter()</li>
-<li>not()</li>
+<li>first()- method returns the first element of the specified elements.</li>
+<li>last()-method returns the last element of the specified elements.</li>
+<li>eq()-method returns an element with a specific index number of the selected elements.</li>
+<li>filter()-method returns an element that you have to choose and match the criteria </li>
+<li>not()- method returns all elements that do not match the criteria.</li>
+
+
+
 
 Example:
   
