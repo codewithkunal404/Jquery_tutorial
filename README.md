@@ -499,12 +499,12 @@ Example:
 <li>not()- method returns all elements that do not match the criteria.</li>
 
 
-
+<br>
 
 Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/filtering.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/filtering.html">SourceCode</a> 
   
-  <br>
+<br>
   
